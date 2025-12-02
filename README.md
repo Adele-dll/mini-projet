@@ -6,7 +6,7 @@ Ce projet est une mini-application interactive développée avec Streamlit, perm
 
 L’application reprend les analyses du notebook Python (histogrammes, boxplots, genres, timeline…) et les rend interactives et filtrables.
 
----
+
 
  1. Contenu du projet
 
@@ -15,7 +15,7 @@ Le repository contient :
 - app_streamlit.py: application Streamlit
 - netflix_titles.csv: dataset Netflix 
 - README.md 
----
+
 
  2. Prérequis
 
