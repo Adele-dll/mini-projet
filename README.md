@@ -1,6 +1,6 @@
-# Mini-projet-Analyse exploratoire du catalogue Netflix
+ Mini-projet-Analyse exploratoire du catalogue Netflix
 
-# Mini-Application Streamlit — Analyse du Catalogue Netflix
+ Mini-Application Streamlit — Analyse du Catalogue Netflix
 
 Ce projet est une mini-application interactive développée avec Streamlit, permettant d'explorer le dataset public de Netflix : films, séries, genres, durées, dates d’ajout, pays d’origine, etc.
 
@@ -8,16 +8,16 @@ L’application reprend les analyses du notebook Python (histogrammes, boxplots,
 
 ---
 
-## 1. Contenu du projet
+ 1. Contenu du projet
 
 Le repository contient :
 
-- `app_streamlit.py`: application Streamlit
-- `netflix_titles.csv`: dataset Netflix 
-- `README.md` 
+- app_streamlit.py: application Streamlit
+- netflix_titles.csv: dataset Netflix 
+- README.md 
 ---
 
-## 2. Prérequis
+ 2. Prérequis
 
 Avant d’exécuter l’application, vous devez avoir :
 
