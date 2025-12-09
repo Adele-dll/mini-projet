@@ -34,5 +34,9 @@ A taper dans Anaconda Prompt :
 
 python -m pip install streamlit pandas plotly seaborn matplotlib wordcloud
 
+puis aller dans le dossier qui contient le code de l'application en utilisant:
+cd "votre chemin contenant le code.../ app_streamlit"
+
+enfin donner cette dernière instruction: 
 streamlit run app_streamlit.py
 
