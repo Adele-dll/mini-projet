@@ -30,6 +30,8 @@ Avant d’exécuter l’application, vous devez avoir :
   - matplotlib  
   - wordcloud  
 
+3. Accéder à l'application Streamlit
+   
 A taper dans Anaconda Prompt :
 
 python -m pip install streamlit pandas plotly seaborn matplotlib wordcloud
@@ -39,4 +41,7 @@ cd "votre chemin contenant le code.../ app_streamlit"
 
 enfin donner cette dernière instruction: 
 streamlit run app_streamlit.py
+
+Ou ouvrir ce lien dans votre navigateur:
+https://mini-projet-l2zs4xt3uxhnkgaj8c9mm5.streamlit.app/
 
